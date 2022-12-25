@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Pick Visual Media</string>
+
+    <!-- Main -->
+    <string name="pick_one_photo">Pick one photo</string>
+    <string name="pick_multiple_photo">Pick multiple photo</string>
 </resources>
