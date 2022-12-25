@@ -68,9 +68,6 @@ dependencies {
     // compose material3
     implementation 'androidx.compose.material3:material3:1.1.0-alpha03'
 
-    // compose navigation
-    implementation "androidx.navigation:navigation-compose:2.5.3"
-
     // compose coil
     implementation "io.coil-kt:coil-compose:2.1.0"
 
